@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 wow
 dee 
 i love God
+=======
+ok
+>>>>>>> 11de369 (o.txt modified)
